@@ -15,3 +15,6 @@ so I had to revert to using the Excel spreadsheet in parallel.
 Still, I thought it showed potential, and it was written to be generic enough that it could potentially
 be used by other tournaments. It has been in storage for the last few years, but I am putting it on
 github in the hopes of attracting like-minded collaborators who actually *know* some web programming.
+
+I am currently cleaning up my old code and getting it to work again with current web standards, the
+initial code base should be available here soon.
